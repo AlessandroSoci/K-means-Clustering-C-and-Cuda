@@ -1,4 +1,4 @@
-#K-means Clustering C++ and Cuda
+# K-means Clustering C++ and Cuda
 
 For this work I used C++ for serial implementation and CUDA for the parallel implementation
 
