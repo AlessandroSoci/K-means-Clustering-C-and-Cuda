@@ -18,8 +18,6 @@ For this work I used C++ for serial implementation and CUDA for the parallel imp
 
 ![8m.png](Presentazione/7.jpg)
 
-![9m.png](Presentazione/8.jpg)
-
 ![10m.png](Presentazione/9.jpg)
 
 ![11m.png](Presentazione/10.jpg)
